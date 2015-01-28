@@ -1,0 +1,25 @@
+{
+  "name": "HeroQuest",
+  "version": "0.0.1",
+  "homepage": "https://github.com/MiPnamic/HeroQuest",
+  "authors": [
+    "MiPnamic <mipnamic@mipnamic.net>"
+  ],
+  "description": "HTML5 tribute to this wonder of 1989",
+  "keywords": [
+    "html5",
+    "heroquest"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "cocos2d-html5": "*"
+  }
+}
