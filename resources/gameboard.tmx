@@ -3,6 +3,12 @@
  <tileset firstgid="1" name="gameboard" tilewidth="72" tileheight="72">
   <image source="../assets/board/gameboard.jpg" width="1872" height="1369"/>
  </tileset>
+ <tileset firstgid="495" name="miniatures" tilewidth="71" tileheight="71">
+  <image source="../assets/miniatures/miniatures.jpg" trans="ffffff" width="355" height="355"/>
+ </tileset>
+ <tileset firstgid="520" name="dice" tilewidth="71" tileheight="71">
+  <image source="../assets/stuff/dice.jpg" width="213" height="142"/>
+ </tileset>
  <layer name="gameboard" width="26" height="19">
   <data encoding="base64" compression="zlib">
    eJwNwwOQGAYAALCvbdu2bdu2bdu2bdu2bdt2t3arm7skUEBAQGCDGNRgBjeEIQ1laMMY1nCGN4IRjWRkoxjVaEY3hjGNZWzjGNd4xjeBCU1kYpOY1GQmN4UpTWVq05jWdKY3gxnNZGazmNVsZjeHOc1lbvOY13zmt4AFLWRhi1jUYha3hCUtZWnLWNZylreCFa1kZatY1WpWt4Y1rWVt61jXeta3gQ1tZGOb2NRmNreFLW1la9vY1na2t4Md7WRnu9jVbna3hz3tZW/72Nd+9neAAx3kYIc41GEOd4QjHeVoxzjWcY53ghOd5GSnONVpTneGM53lbOc413nOd4ELXeRil7jUZS53hStd5WrXuNZ1rneDG93kZre41W1ud4c73eVu97jXfe73gAc95GGPeNRjHveEJz3lac941nOe94IXveRlr3jVa173hje95W3veNd73veBD33kY5/41Gc+94UvfeVr3/jWd773gx/95Gf/8V+/+NX//N9vfveHP/3lb/8YEAgDG8SgBjO4IQxpKEMbxrCGM7wRjGgkIxvFqEYzujGMaSxjG8e4xjO+CUxoIhObxKQmM7kpTGkqU5vGtKYzvRnMaCYzm8WsZjO7OcxpLnObx7zmM78FLGghC1vEohazuCUsaSlLW8aylrO8FaxoJStbxapWs7o1rGkta1vHutazvg1saCMb28SmNrO5LWxpK1vbxra2s70d7GgnO9vFrnazuz3saS9728e+9rO/AxzoIAc7xKEOc7gjHOkoRzvGsY5zvBOc6CQnO8WpTnO6M5zpLGc7x7nOc74LXOgiF7vEpS5zuStc6SpXu8a1rnO9G9zoJje7xa1uc7s73Okud7vHve5zvwc86CEPe8SjHvO4JzzpKU97xrOe87wXvOglL3vFq17zuje86S1ve8e73vO+D3zoIx/7xKc+87kvfOkrX/vGt77zvX8BoEbviQ==
